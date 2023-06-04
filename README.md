@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CallumBocker
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning and AI.
-- 🌱 I’m currently learning Python, SQL and Git.
+- 🌱 I’m currently learning Python, SQL and Tableau.
 
 <!---
 CallumBocker/CallumBocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
